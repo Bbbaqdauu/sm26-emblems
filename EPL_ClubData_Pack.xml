@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <PackData name="My EPL Emblems Pack" desc="Custom club emblems for Premier League clubs">
 
-	<ClubData baseImageUrl="https://raw.githubusercontent.com/Bbbaqdauu/sm26-emblems/main/">
+	<ClubData baseImageUrl="https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/">
 		<C id="1" n="Arsenal" i="1.png" />
 		<C id="2" n="Aston Villa" i="2.png" />
 		<C id="9" n="AFC Bournemouth" i="9.png" />
