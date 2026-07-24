@@ -1,0 +1,28 @@
+{
+	"PlayerData": [],
+	"ClubData": [
+		{ "ID": 1, "Name": "Arsenal", "ShortName": "ARS", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/1.png" },
+		{ "ID": 2, "Name": "Aston Villa", "ShortName": "AVL", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/2.png" },
+		{ "ID": 9, "Name": "AFC Bournemouth", "ShortName": "BOU", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/9.png" },
+		{ "ID": 11, "Name": "Brentford", "ShortName": "BRE", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/11.png" },
+		{ "ID": 12, "Name": "Brighton & Hove Albion", "ShortName": "BHA", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/12.png" },
+		{ "ID": 15, "Name": "Burnley", "ShortName": "BUR", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/15.png" },
+		{ "ID": 21, "Name": "Chelsea", "ShortName": "CHE", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/21.png" },
+		{ "ID": 27, "Name": "Crystal Palace", "ShortName": "CRY", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/27.png" },
+		{ "ID": 31, "Name": "Everton", "ShortName": "EVE", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/31.png" },
+		{ "ID": 32, "Name": "Fulham", "ShortName": "FUL", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/32.png" },
+		{ "ID": 40, "Name": "Leeds United", "ShortName": "LEE", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/40.png" },
+		{ "ID": 44, "Name": "Liverpool", "ShortName": "LIV", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/44.png" },
+		{ "ID": 47, "Name": "Manchester City", "ShortName": "MCI", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/47.png" },
+		{ "ID": 49, "Name": "Manchester United", "ShortName": "MUN", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/49.png" },
+		{ "ID": 52, "Name": "Newcastle United", "ShortName": "NEW", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/52.png" },
+		{ "ID": 55, "Name": "Nottingham Forest", "ShortName": "NFO", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/55.png" },
+		{ "ID": 76, "Name": "Sunderland", "ShortName": "SUN", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/76.png" },
+		{ "ID": 80, "Name": "Tottenham Hotspur", "ShortName": "TOT", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/80.png" },
+		{ "ID": 85, "Name": "West Ham United", "ShortName": "WHU", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/85.png" },
+		{ "ID": 88, "Name": "Wolverhampton Wanderers", "ShortName": "WOL", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/88.png" }
+	],
+	"LeagueData": [],
+	"CupData": [],
+	"StadiumData": []
+}
