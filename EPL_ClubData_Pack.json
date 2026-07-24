@@ -1,4 +1,5 @@
 {
+	"PlayerData": [],
 	"ClubData": [
 		{ "ID": 1, "Name": "Arsenal", "ShortName": "ARS", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/1.png" },
 		{ "ID": 2, "Name": "Aston Villa", "ShortName": "AVL", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/2.png" },
@@ -20,5 +21,8 @@
 		{ "ID": 80, "Name": "Tottenham Hotspur", "ShortName": "TOT", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/80.png" },
 		{ "ID": 85, "Name": "West Ham United", "ShortName": "WHU", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/85.png" },
 		{ "ID": 88, "Name": "Wolverhampton Wanderers", "ShortName": "WOL", "ImageURL": "https://cdn.jsdelivr.net/gh/Bbbaqdauu/sm26-emblems@main/88.png" }
-	]
+	],
+	"LeagueData": [],
+	"CupData": [],
+	"StadiumData": []
 }
